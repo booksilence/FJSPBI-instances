@@ -1,0 +1,25 @@
+instances including:
+1) Fattahi instances;
+2) NI instances.
+
+1. For instances  Fattahi-1C and NI-1C: (the number of job family: 1)
+
+row1£ºthe number of jobs/ the number of machines/ the maximum value of the number of operations of all jobs
+
+The first column of the first row before each matrix: the number of operations of each job
+
+The number of columns of the matrix: the number of machines
+The number of rows of the matrix: the number of operations per job. 
+Each value in the matrix: the processing time for each operation on each machine.
+
+2. For instances  Fattahi-2C  to Fattahi-4C and NI-2C to NI-4C: (the number of job family: 2 to 4)
+row1£ºthe number of jobs/ the number of machines/ the maximum value of the number of operations of all jobs
+
+The first column of the first row before each matrix: the number of operations of each job
+The second column of the first row before each matrix: the job family index of each job (each job is belonging to and only belonging to one job family)
+
+The number of columns of the matrix: the number of machines
+The number of rows of the matrix: the number of operations per job. 
+Each value in the matrix: the processing time for each operation on each machine.
+
+
